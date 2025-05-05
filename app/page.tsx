@@ -70,7 +70,7 @@ export default function LandingPage() {
                   Call Us
                 </a>
                 <a
-                  href="https://wa.me/9675316171"
+                  href="https://wa.me/+91 9675316171"
                   className="inline-flex items-center justify-center rounded-md bg-green-600 px-6 py-3 text-base font-medium text-white shadow transition-colors hover:bg-green-700 focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-ring"
                 >
                   <MessageSquare className="mr-2 h-5 w-5" />
@@ -324,7 +324,7 @@ export default function LandingPage() {
                   Call Us
                 </a>
                 <a
-                  href="https://wa.me/9675316171"
+                  href="https://wa.me/+91 9675316171"
                   className="inline-flex items-center justify-center rounded-md bg-green-600 px-6 py-3 text-base font-medium text-white shadow transition-colors hover:bg-green-700 focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-ring"
                 >
                   <MessageSquare className="mr-2 h-5 w-5" />
@@ -466,7 +466,7 @@ export default function LandingPage() {
         {/* Floating Action Buttons */}
         <div className="fixed bottom-6 right-6 flex flex-col gap-4 z-50">
           <a
-            href="https://wa.me/9675316171"
+            href="https://wa.me/+91 9675316171"
             className="flex items-center justify-center w-14 h-14 rounded-full bg-green-600 text-white shadow-lg hover:bg-green-700 transition-colors"
             aria-label="Contact us on WhatsApp"
           >
